@@ -1,16 +1,15 @@
-# mental_health_app
+# 🌿 Mental Health App UI (Flutter)
 
-A new Flutter project.
+A clean and modern **Flutter UI design for a Mental Health & Wellness App**, featuring:
 
-## Getting Started
+- Personalized greeting and date display
+- Mood tracker with emoji options
+- Search bar and notification button
+- Exercise categories: Speaking, Writing, Reading
+- Intuitive bottom navigation
 
-This project is a starting point for a Flutter application.
+⚠️ **Note:** This is a **UI-only project** — no backend functionality is implemented.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A perfect starting point for developers and designers exploring Flutter UI design.
